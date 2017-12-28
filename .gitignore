@@ -1,0 +1,17 @@
+*/.gradle
+*/.idea
+*/build
+*/gradle
+build.gradle
+*.iml
+gradlew
+gradlew.bat
+settings.gradle
+*/app/build
+*/libs/build
+*/app/proguard-rules.pro
+*/app/build.gradle
+*/app/androidTest
+*/app/test
+*/.gitignore
+*/*/.gitignore
